@@ -1,11 +1,11 @@
-<!DOCTYPE html>
+
 <html lang="en">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>My GitHub Pages Website</title>
+    <title>trends4u</title>
     <link rel="stylesheet" href="style.css">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
 </head>
@@ -15,7 +15,7 @@
     <header>
         <div class="container">
             <div class="logo">
-                <h1><a href="#">MySite</a></h1>
+                <h1><a href="#">trends4u</a></h1>
             </div>
             <nav class="navbar">
                 <ul>
@@ -30,22 +30,22 @@
 
     <section id="home" class="section home">
         <div class="container">
-            <h2>Welcome to My Website</h2>
-            <p>This is a simple, responsive GitHub Pages template.</p>
+            <h2>find whatever u need!/h2>
+            <p>tiktok? insta? even likee! every commence u need.</p>
         </div>
     </section>
 
     <section id="about" class="section about">
         <div class="container">
             <h2>About Us</h2>
-            <p>This is the About section. You can talk about yourself or your project here.</p>
+            <p>a website that have every goods u need.</p>
         </div>
     </section>
 
     <section id="services" class="section services">
         <div class="container">
             <h2>Our Services</h2>
-            <p>Describe the services you offer or the features of your project here.</p>
+            <p>search. find. order. and thats it1.</p>
         </div>
     </section>
 
