@@ -32,8 +32,7 @@
         <div class="container">
             <h2>find whatever u need!/h2>
             <p>tiktok? insta? even likee! every commence u need.</p>
-        </div>
-    </section>
+        
 
     <section id="about" class="section about">
         <div class="container">
@@ -45,7 +44,7 @@
     <section id="services" class="section services">
         <div class="container">
             <h2>Our Services</h2>
-            <p>search. find. order. and thats it1.</p>
+            <p>search. find. order. and thats it!.</p>
         </div>
     </section>
 
@@ -59,8 +58,7 @@
     <footer>
         <div class="container">
             <p>&copy; 2024 My GitHub Pages Website. All Rights Reserved.</p>
-        </div>
-    </footer>
+  
 
     <!-- Optional: Add JavaScript for mobile menu toggle -->
     <script>
