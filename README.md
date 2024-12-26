@@ -30,7 +30,7 @@
 
     <section id="home" class="section home">
         <div class="container">
-            <h2>find whatever u need!/h2>
+            <h2>find whatever u need!
             <p>tiktok? insta? even likee! every commence u need.</p>
         
 
